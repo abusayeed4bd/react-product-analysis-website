@@ -44,3 +44,28 @@
 .banner-image img {
     max-width: 100%;
 }
+
+@media screen and (max-width: 749px) {
+    .banner-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .banner-text {
+        width: 100%;
+
+        order: 2;
+    }
+
+    .banner-text h1 {
+        font-size: 30px;
+        margin: 10px 0;
+        text-transform: uppercase;
+    }
+
+    .banner-image {
+        width: 100%;
+        order: 1;
+
+    }
+}
