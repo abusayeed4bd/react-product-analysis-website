@@ -1,38 +1,38 @@
 [
     {
-        "name": "Mr. David",
+        "name": "Olivia",
         "review": "it was an amazing experience with laptop analysis bd. I will use them again. thaks!",
         "id": 1,
         "ratings": 4.9
     },
     {
-        "name": "Mr. David",
-        "review": "it was an amazing experience with laptop analysis bd. I will use them again. thaks!",
-        "id": 1,
-        "ratings": 4.9
+        "name": "AfroMatt",
+        "review": "Thanks for helping me to find the best laptop",
+        "id": 2,
+        "ratings": 4.7
     },
     {
-        "name": "Mr. David",
-        "review": "it was an amazing experience with laptop analysis bd. I will use them again. thaks!",
-        "id": 1,
-        "ratings": 4.9
+        "name": "Fozzi bx",
+        "review": "Really I am very happy to use this website to get extra knowledge about laptop",
+        "id": 3,
+        "ratings": 5
     },
     {
-        "name": "Mr. David",
-        "review": "it was an amazing experience with laptop analysis bd. I will use them again. thaks!",
-        "id": 1,
-        "ratings": 4.9
+        "name": "Abu Sayeed",
+        "review": "This website helps me to find a best lapotop for my daily work",
+        "id": 4,
+        "ratings": 5
     },
     {
-        "name": "Mr. David",
-        "review": "it was an amazing experience with laptop analysis bd. I will use them again. thaks!",
-        "id": 1,
-        "ratings": 4.9
+        "name": "Ibrahim",
+        "review": "Laptop anlysis is one of the best website to find laptops",
+        "id": 5,
+        "ratings": 4.7
     },
     {
-        "name": "Mr. David",
+        "name": "Saddam",
         "review": "it was an amazing experience with laptop analysis bd. I will use them again. thaks!",
-        "id": 1,
+        "id": 6,
         "ratings": 4.9
     }
 ]

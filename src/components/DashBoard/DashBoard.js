@@ -45,7 +45,7 @@ const DashBoard = () => {
     return (
         <div className='chart-container'>
             <div className="sell-revenue">
-                <h2>Sell vs revenue</h2>
+                <h2 className='orange-color'>Sell vs revenue</h2>
                 <LineChart
                     width={300}
                     height={300}
@@ -68,11 +68,12 @@ const DashBoard = () => {
                 </LineChart>
             </div>
             <div className="sell-revenue">
-                <h2>Sell vs revenue</h2>
+                <h2 className='orange-color'>Investment History</h2>
                 <BarChart width={300} height={300} data={data}>
                     <Bar dataKey="investment" fill="orange" />
                     <XAxis dataKey={'month'}></XAxis>
                     <YAxis></YAxis>
+                    <Tooltip />
                 </BarChart>
             </div>
 

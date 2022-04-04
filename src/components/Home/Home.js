@@ -16,7 +16,7 @@ const Home = () => {
                 <div className='banner-text'>
                     <h1>Find Your Best Laptop</h1>
                     <h1 className='orange-color'>Increase Your Productivity</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem facere animi accusamus eaque quisquam non, laborum voluptates error libero sunt.</p>
+                    <p>Find a best laptop and make esiar your daily office and home work</p>
                     <button>Explore more</button>
                 </div>
                 <div className='banner-image'>
