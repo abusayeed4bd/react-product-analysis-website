@@ -1,0 +1,46 @@
+.orange-color {
+    color: orange;
+}
+
+
+.banner-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 90vh;
+    padding: 0 40px;
+}
+
+.banner-text {
+    width: 50%;
+    text-align: left;
+}
+
+.banner-text h1 {
+    font-size: 50px;
+    margin: 10px 0;
+    text-transform: uppercase;
+}
+
+.banner-text p {
+    font-size: 18px;
+}
+
+.banner-text button {
+    border: none;
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+.banner-image {
+    width: 50%;
+}
+
+.banner-image img {
+    max-width: 100%;
+}
