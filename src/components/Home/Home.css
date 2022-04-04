@@ -45,6 +45,31 @@
     max-width: 100%;
 }
 
+.review-home h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.reviews {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin: 10px 40px;
+}
+
+.load-btn {
+    border: none;
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 0;
+}
+
 @media screen and (max-width: 749px) {
     .banner-container {
         flex-direction: column;
@@ -67,5 +92,12 @@
         width: 100%;
         order: 1;
 
+    }
+
+    .reviews {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 10px;
+        margin: 10px 40px;
     }
 }
