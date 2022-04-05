@@ -25,7 +25,7 @@ const Home = () => {
             </section>
 
             <section className='review-home'>
-                <h2 className='orange-color'>Reviews</h2>
+                <h2 className='orange-color'>Customer Reviews ({sliceReview.length})</h2>
                 <div className="reviews">
                     {
                         sliceReview.map(review => <SingleReview

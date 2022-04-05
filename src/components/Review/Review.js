@@ -7,7 +7,7 @@ const Review = () => {
     const [reviews] = useReview([]);
     return (
         <div>
-            <h2 className='orange-color'>Reviews</h2>
+            <h2 className='orange-color'>What Our Customers say ({reviews.length})</h2>
             <div className="reviews">
                 {
                     reviews.map(review => <SingleReview
