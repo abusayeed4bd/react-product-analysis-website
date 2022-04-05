@@ -1,0 +1,14 @@
+.question {
+    text-align: left;
+    margin: 10px 30px;
+    padding: 20px;
+    border: 1px solid lightgray;
+}
+
+.question h1 {
+    margin: 10px 0;
+}
+
+.question p {
+    font-size: 18px;
+}
